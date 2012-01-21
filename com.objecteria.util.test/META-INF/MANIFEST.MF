@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Objecteria Util Tests
+Bundle-SymbolicName: com.objecteria.util.test
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: objecteria.com
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Require-Bundle: com.objecteria.util;bundle-version="1.0.0",
+ org.junit
